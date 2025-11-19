@@ -1,6 +1,6 @@
 // const express = require('express').Router();
 const express = require('express');
-const Quotes = require('../models/Quote');
+const Quotes = require('../models/quote');
 const router = express.Router();
 
 // Validation middleware

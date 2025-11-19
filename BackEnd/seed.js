@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const Quotes = require('./models/Quote');
+const Quotes = require('./models/quote');
 
 let dummyQuotes = [
     {
